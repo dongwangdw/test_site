@@ -15,10 +15,10 @@ highlight_code = false
 
 [extra.index]
 title = "me"
-image = "images/me.png"
+image = "default_author.png"
 image_alt = "me"
 
 [extra.default_author]
 name = "my name"
-avatar = "images/me.png"
+avatar = "default_author.png"
 avatar_alt = "my name"
