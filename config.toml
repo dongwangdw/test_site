@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://username.github.io/test_site/"
 theme = "blow"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -7,6 +7,8 @@ compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+
+output_dir = "docs"
 
 [markdown]
 # Whether to do syntax highlighting
